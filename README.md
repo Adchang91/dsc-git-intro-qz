@@ -64,7 +64,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( )`git commit "I'm coding"`
 (X)`git commit -m "I'm coding"`
 
-?: What is the correct commit syntax for all changes with a message?
+?: How can you both stage and commit all changes with a message in one step?
 
 ( )`git message -am "I'm coding"`
 ( )`git add -a "I'm coding"`
